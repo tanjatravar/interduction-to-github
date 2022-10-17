@@ -1,3 +1,2 @@
-public class{
-
+public abstact class{
 }
