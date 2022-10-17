@@ -1,1 +1,3 @@
-Welcome to my GitHub profile.
+public abstact class{
+
+}
