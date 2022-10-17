@@ -1,3 +1,3 @@
-publc class{
+public class{
 
 }
